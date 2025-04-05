@@ -1,0 +1,9 @@
+1. Giám sát thời gian sử dụng ứng dụng
+	- Giải thích: người dùng có thể theo dõi thời gian sử dụng ứng dụng trong ngày (chỉ dừng lại trong ngày và xóa dự liệu nếu tới 24:00)
+	- Ý tưởng thực hiện : 
+		+ Sử dụng lại bằng kiểm tra thời gian sử dụng đã có trên điện thoại (nếu được)
+		+ 
+2. Giới hạn thời gian sử dụng ứng dụng
+	- Giải thích: người dùng chọn 1 ứng dụng chỉ sử dụng giới hạn trong 1 ngày
+	- Ý tưởng thực hiện : Nhập tên ứng dụng vào/ chọn ứng dụng -> Nó sẽ thêm vào màn hình chính (tên + thời gian mặc định là 1 giờ) -> Người dùng thiết lập lại thời gian -> Tiến hành nhấn các nút theo mong muốn (bắt đầu, dừng, hủy bỏ)
+3. 
