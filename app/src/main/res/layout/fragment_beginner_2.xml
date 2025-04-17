@@ -32,11 +32,12 @@
 
     <com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton
         style="@style/Widget.Material3.Button.OutlinedButton"
+        android:id="@+id/btn_back"
         android:layout_width="130dp"
         android:layout_height="43dp"
         android:layout_marginEnd="52dp"
         android:layout_marginBottom="36dp"
-        android:text="Continue"
+        android:text="Back"
         app:icon="@drawable/svg_right_arrow"
         app:iconGravity="textEnd"
         app:layout_constraintBottom_toBottomOf="parent"
