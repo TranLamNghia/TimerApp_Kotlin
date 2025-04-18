@@ -31,13 +31,27 @@
 
 
     <com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton
-        style="@style/Widget.Material3.Button.OutlinedButton"
         android:id="@+id/btn_back"
+        style="@style/Widget.Material3.Button.OutlinedButton"
+        android:layout_width="130dp"
+        android:layout_height="43dp"
+        android:layout_marginStart="52dp"
+        android:layout_marginBottom="36dp"
+        android:text="Back"
+        app:icon="@drawable/svg_left_arrow"
+        app:iconGravity="textStart"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:ignore="MissingConstraints" />
+
+    <com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton
+        style="@style/Widget.Material3.Button.OutlinedButton"
+        android:id="@+id/btn_end"
         android:layout_width="130dp"
         android:layout_height="43dp"
         android:layout_marginEnd="52dp"
         android:layout_marginBottom="36dp"
-        android:text="Back"
+        android:text="End"
         app:icon="@drawable/svg_right_arrow"
         app:iconGravity="textEnd"
         app:layout_constraintBottom_toBottomOf="parent"
